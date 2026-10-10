@@ -30,7 +30,7 @@
     TailBehindBackpack: MobHumanoidAnyMarking #imp
     Head: MobMothHead
     Face: MobHumanoidAnyMarking
-    Hair: MobHumanoidAnyMarking
+    Hair: MobHumanoidMarkingMatchSkin
     Snout: MobHumanoidAnyMarking
     UndergarmentTop: MobHumanoidAnyMarking
     UndergarmentBottom: MobHumanoidAnyMarking
